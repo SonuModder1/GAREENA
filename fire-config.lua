@@ -46,7 +46,7 @@ FreeFire.Connection               = {
 
 --【 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 】--
 FreeFire.Message                  = {
-    Kick = "Blacklist",
+    Kick = "Blacklist User Some time ban",
     Ban  = "You Are Banned Form Server",
 }
 
