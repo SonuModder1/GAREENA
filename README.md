@@ -77,7 +77,7 @@ Server Side Protecet :
 - Microsoft ID(LIVE ID)
 - Xbox Live ID (XBL ID)
 - Discord ID
-- [FreeFire Player Token's](https://docs.FreeFire.net/natives/?_0x54C06897) (I call this option HWID because it is very powerful 💪)
+- [FreeFire Player Token's]() (I call this option HWID because it is very powerful )
 
 ---
 
@@ -105,9 +105,7 @@ ensure discord-screenshot
 
 ### Whitelist
 
-- You can add your users identifiers in `FreeFire/whitelists/fire-white.lua`
-  for example :
-
+- 
 ```
 Admins = {
     '7835767148521717**',                                -- Discord ID
