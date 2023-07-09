@@ -46,8 +46,8 @@ FreeFire.Connection               = {
 
 --【 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 】--
 FreeFire.Message                  = {
-    Kick = "You Are ⚡️ Kicked From Server Protection By FreeFire® Don't Try For Cheat in this Server",
-    Ban  = "You Are ⛔️ Banned Form Server Please Make Ticket in Our Server ",
+    Kick = "Blacklist",
+    Ban  = "You Are Banned Form Server",
 }
 
 --【 𝗔𝗱𝗺𝗶𝗻 𝗠𝗲𝗻𝘂 】--
